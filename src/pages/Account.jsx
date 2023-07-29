@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Account = () => {
-  return (
-    <div>
-      Account
-    </div>
-  )
-}
+  return <div className='text-white text-4xl text-center'>Account</div>;
+};
 
-export default Account
+export default Account;
